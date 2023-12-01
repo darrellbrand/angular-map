@@ -1,0 +1,19 @@
+svg{
+    height: 800px;
+}
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+   path:hover {
+    fill: red;
+    transition: all ease 0.3s;
+  }
+  ul{
+    font-size: x-large;
+    color: black;
+  }
+ *{overflow: hidden;}

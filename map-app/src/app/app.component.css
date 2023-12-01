@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+    height: 100vh;
+    padding: 0px;
+    overflow: hidden;
+}
+a{
+    font-size: x-large;
+}
